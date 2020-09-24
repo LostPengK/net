@@ -1,4 +1,4 @@
-# Akash Networks
+# Akash Networks  test
 
 This repo collects the genesis and configuration files for the various Akash networks (mainnet, testnets & devnets).
 
